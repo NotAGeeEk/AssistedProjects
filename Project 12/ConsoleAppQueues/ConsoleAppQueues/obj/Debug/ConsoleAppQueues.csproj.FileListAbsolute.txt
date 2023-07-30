@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\bin\Debug\ConsoleAppQueues.exe.config
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\bin\Debug\ConsoleAppQueues.exe
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\bin\Debug\ConsoleAppQueues.pdb
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\obj\Debug\ConsoleAppQueues.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\obj\Debug\ConsoleAppQueues.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\obj\Debug\ConsoleAppQueues.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\obj\Debug\ConsoleAppQueues.exe
+D:\Assisted Project\Project 12\ConsoleAppQueues\ConsoleAppQueues\obj\Debug\ConsoleAppQueues.pdb

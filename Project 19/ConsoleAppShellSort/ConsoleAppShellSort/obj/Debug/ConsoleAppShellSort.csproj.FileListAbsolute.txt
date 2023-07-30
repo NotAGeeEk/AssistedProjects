@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\bin\Debug\ConsoleAppShellSort.exe.config
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\bin\Debug\ConsoleAppShellSort.exe
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\bin\Debug\ConsoleAppShellSort.pdb
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\obj\Debug\ConsoleAppShellSort.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\obj\Debug\ConsoleAppShellSort.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\obj\Debug\ConsoleAppShellSort.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\obj\Debug\ConsoleAppShellSort.exe
+D:\Assisted Project\Project 19\ConsoleAppShellSort\ConsoleAppShellSort\obj\Debug\ConsoleAppShellSort.pdb

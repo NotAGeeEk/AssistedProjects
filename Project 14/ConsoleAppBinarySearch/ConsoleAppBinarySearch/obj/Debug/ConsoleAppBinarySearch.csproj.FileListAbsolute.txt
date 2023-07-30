@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\bin\Debug\ConsoleAppBinarySearch.exe.config
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\bin\Debug\ConsoleAppBinarySearch.exe
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\bin\Debug\ConsoleAppBinarySearch.pdb
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.exe
+D:\Assisted Project\Project 14\ConsoleAppBinarySearch\ConsoleAppBinarySearch\obj\Debug\ConsoleAppBinarySearch.pdb

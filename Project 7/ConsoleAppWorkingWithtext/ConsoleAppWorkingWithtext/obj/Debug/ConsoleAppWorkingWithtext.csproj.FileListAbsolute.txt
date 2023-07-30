@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\obj\Debug\ConsoleAppWorkingWithtext.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\obj\Debug\ConsoleAppWorkingWithtext.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\obj\Debug\ConsoleAppWorkingWithtext.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\bin\Debug\ConsoleAppWorkingWithtext.exe.config
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\bin\Debug\ConsoleAppWorkingWithtext.exe
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\bin\Debug\ConsoleAppWorkingWithtext.pdb
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\obj\Debug\ConsoleAppWorkingWithtext.exe
+D:\Assisted Project\Project 7\ConsoleAppWorkingWithtext\ConsoleAppWorkingWithtext\obj\Debug\ConsoleAppWorkingWithtext.pdb

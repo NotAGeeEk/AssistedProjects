@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\bin\Debug\ConsoleAppStack.exe.config
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\bin\Debug\ConsoleAppStack.exe
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\bin\Debug\ConsoleAppStack.pdb
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\obj\Debug\ConsoleAppStack.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\obj\Debug\ConsoleAppStack.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\obj\Debug\ConsoleAppStack.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\obj\Debug\ConsoleAppStack.exe
+D:\Assisted Project\Project 11\ConsoleAppStack\ConsoleAppStack\obj\Debug\ConsoleAppStack.pdb

@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\bin\Debug\ConsoleAppPrimitiveTypes.exe.config
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\bin\Debug\ConsoleAppPrimitiveTypes.exe
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\bin\Debug\ConsoleAppPrimitiveTypes.pdb
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\obj\Debug\ConsoleAppPrimitiveTypes.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\obj\Debug\ConsoleAppPrimitiveTypes.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\obj\Debug\ConsoleAppPrimitiveTypes.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\obj\Debug\ConsoleAppPrimitiveTypes.exe
+D:\Assisted Project\Project 4\ConsoleAppPrimitiveTypes\ConsoleAppPrimitiveTypes\obj\Debug\ConsoleAppPrimitiveTypes.pdb

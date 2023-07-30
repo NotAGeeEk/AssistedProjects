@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\bin\Debug\ConsoleAppInsertionSort.exe.config
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\bin\Debug\ConsoleAppInsertionSort.exe
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\bin\Debug\ConsoleAppInsertionSort.pdb
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.exe
+D:\Assisted Project\Project 17\ConsoleAppInsertionSort\ConsoleAppInsertionSort\obj\Debug\ConsoleAppInsertionSort.pdb

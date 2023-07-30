@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\bin\Debug\ConsoleAppQuickSort.exe.config
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\bin\Debug\ConsoleAppQuickSort.exe
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\bin\Debug\ConsoleAppQuickSort.pdb
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\obj\Debug\ConsoleAppQuickSort.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\obj\Debug\ConsoleAppQuickSort.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\obj\Debug\ConsoleAppQuickSort.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\obj\Debug\ConsoleAppQuickSort.exe
+D:\Assisted Project\Project 21\ConsoleAppQuickSort\ConsoleAppQuickSort\obj\Debug\ConsoleAppQuickSort.pdb

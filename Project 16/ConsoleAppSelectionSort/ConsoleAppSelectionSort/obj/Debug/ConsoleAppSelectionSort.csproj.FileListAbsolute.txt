@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\bin\Debug\ConsoleAppSelectionSort.exe.config
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\bin\Debug\ConsoleAppSelectionSort.exe
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\bin\Debug\ConsoleAppSelectionSort.pdb
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.exe
+D:\Assisted Project\Project 16\ConsoleAppSelectionSort\ConsoleAppSelectionSort\obj\Debug\ConsoleAppSelectionSort.pdb

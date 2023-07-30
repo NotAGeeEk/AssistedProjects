@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\bin\Debug\ConsoleAppRecusrion.exe.config
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\bin\Debug\ConsoleAppRecusrion.exe
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\bin\Debug\ConsoleAppRecusrion.pdb
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\obj\Debug\ConsoleAppRecusrion.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\obj\Debug\ConsoleAppRecusrion.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\obj\Debug\ConsoleAppRecusrion.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\obj\Debug\ConsoleAppRecusrion.exe
+D:\Assisted Project\Project 18\ConsoleAppRecusrion\ConsoleAppRecusrion\obj\Debug\ConsoleAppRecusrion.pdb

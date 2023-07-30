@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\bin\Debug\ConsoleAppLinearSearch.exe.config
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\bin\Debug\ConsoleAppLinearSearch.exe
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\bin\Debug\ConsoleAppLinearSearch.pdb
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.exe
+D:\Assisted Project\Project 13\ConsoleAppLinearSearch\ConsoleAppLinearSearch\obj\Debug\ConsoleAppLinearSearch.pdb

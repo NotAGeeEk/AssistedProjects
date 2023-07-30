@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\bin\Debug\ConsoleAppWrokingWithfiles.exe.config
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\bin\Debug\ConsoleAppWrokingWithfiles.exe
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\bin\Debug\ConsoleAppWrokingWithfiles.pdb
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\obj\Debug\ConsoleAppWrokingWithfiles.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\obj\Debug\ConsoleAppWrokingWithfiles.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\obj\Debug\ConsoleAppWrokingWithfiles.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\obj\Debug\ConsoleAppWrokingWithfiles.exe
+D:\Assisted Project\Project 8\ConsoleAppWrokingWithfiles\ConsoleAppWrokingWithfiles\obj\Debug\ConsoleAppWrokingWithfiles.pdb

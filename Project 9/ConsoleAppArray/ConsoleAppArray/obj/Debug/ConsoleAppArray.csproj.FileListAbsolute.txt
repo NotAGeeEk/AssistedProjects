@@ -1,0 +1,8 @@
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+D:\Assisted Project\Project 9\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
